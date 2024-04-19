@@ -1,6 +1,6 @@
 {
   "name": "thug-typescript-starter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A typescript starter project",
   "main": "index.js",
   "type": "module",
