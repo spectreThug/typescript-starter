@@ -1,5 +1,5 @@
 {
-  "name": "@thug/typescript-starter",
+  "name": "thug-typescript-starter",
   "version": "0.0.1",
   "description": "A typescript starter project",
   "main": "index.js",
@@ -7,7 +7,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spectreThug/typescript-starter"
+  },
+  "keywords": [
+    "typescript",
+    "starter"
+  ],
   "author": "spectreThug",
   "license": "ISC",
   "dependencies": {
@@ -15,5 +22,8 @@
     "cowsay": "^1.6.0",
     "inquirer": "^9.2.19",
     "ora": "^8.0.1"
+  },
+  "bin": {
+    "thug-typescript-starter": "index.js"
   }
 }

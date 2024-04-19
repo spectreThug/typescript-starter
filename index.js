@@ -287,9 +287,3 @@ async function main() {
 }
 
 main();
-/*
-    "@types/node": "^20.11.17",
-    "nodemon": "^3.0.3",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.3.3"
-*/
